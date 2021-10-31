@@ -1,0 +1,22 @@
+body {
+  background-color: aqua;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aqua;
+}
+form input {
+  margin: 10px;
+  height: 25px;
+  text-align: center;
+  border: skyblue solid 2px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+form button {
+  width: 200px;
+  height: 40px;
+  border: solid 1px skyblue;
+  border-radius: 5px;
+}
